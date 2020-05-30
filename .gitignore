@@ -3,5 +3,9 @@
 !.gitmodules
 !.zshrc
 !.oh-my-zsh
+!code
+!.config
+.config/*
 !.config/awesome
 !.config/incorporeal
+!.config/kitty
