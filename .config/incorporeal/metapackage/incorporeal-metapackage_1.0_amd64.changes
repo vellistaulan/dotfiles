@@ -1,0 +1,23 @@
+Format: 1.8
+Source: incorporeal-metapackage
+Binary: incorporeal-metapackage
+Architecture: amd64
+Version: 1.0
+Distribution: unstable
+Urgency: low
+Maintainer: Spencer
+Description:
+ incorporeal-metapackage - incorporeal metapackage
+Changes:
+ incorporeal-metapackage (1.0) unstable; urgency=low
+ .
+   * First version
+Checksums-Sha1:
+ 30de820972800cf3a49d032af5479c91661c2c87 4237 incorporeal-metapackage_1.0_amd64.buildinfo
+ b5dfe83327f7f2868ab5b425bc01d4295c72a303 2432 incorporeal-metapackage_1.0_amd64.deb
+Checksums-Sha256:
+ 846d10b68936998a2792fc16d9dd2e8a946d4ace1a4150c415323c6125ebcea0 4237 incorporeal-metapackage_1.0_amd64.buildinfo
+ 844610a98d7a33ed4f94a136ed832e20429582f53ed7deb2cf1f3ccacfa6bd63 2432 incorporeal-metapackage_1.0_amd64.deb
+Files:
+ 4ff6856bcdbf687419dbd09d75f1ae4a 4237 misc optional incorporeal-metapackage_1.0_amd64.buildinfo
+ bd8f5083aabb07d0d1f5a060947fdb10 2432 misc optional incorporeal-metapackage_1.0_amd64.deb

@@ -15,7 +15,7 @@ Depends: firmware-linux,firmware-misc-nonfree,firmware-iwlwifi,sudo,awesome,xorg
 # Suggests: <comma-separated list of packages>
 # Provides: <comma-separated list of packages>
 # Replaces: <comma-separated list of packages>
-# Architecture: all
+Architecture: amd64
 # Multi-Arch: <one of: foreign|same|allowed>
 # Copyright: <copyright file; defaults to GPL2>
 # Changelog: <changelog file; defaults to a generic changelog>
@@ -24,7 +24,5 @@ Depends: firmware-linux,firmware-misc-nonfree,firmware-iwlwifi,sudo,awesome,xorg
 # Links: <pair of space-separated paths; First is path symlink points at, second is filename of link>
 # Files: <pair of space-separated paths; First is file to include, second is destination>
 #  <more pairs, if there's more than one file to include. Notice the starting space>
-Description: <short description; defaults to some wise words> 
- long description and info
- .
- second paragraph
+Description: incorporeal metapackage
+ haha stinky poop
