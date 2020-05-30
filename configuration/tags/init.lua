@@ -6,21 +6,21 @@ local tags = {
   {
     icon = icons.chrome,
     type = 'chrome',
-    defaultApp = 'google-chrome-beta',
+    defaultApp = 'google-chrome',
     screen = 1
   },
   {
     icon = icons.code,
     type = 'code',
-    defaultApp = 'code',
+    defaultApp = 'kitty',
     screen = 1
   },
-  {
-    icon = icons.social,
-    type = 'social',
-    defaultApp = 'station',
-    screen = 1
-  },
+--  {
+--    icon = icons.social,
+--    type = 'social',
+--    defaultApp = 'station',
+--    screen = 1
+--  },
   {
     icon = icons.folder,
     type = 'files',
@@ -30,21 +30,21 @@ local tags = {
   {
     icon = icons.music,
     type = 'music',
-    defaultApp = 'youtube-music',
+    defaultApp = 'com.spotify.Spotify',
     screen = 1
   },
   {
     icon = icons.game,
     type = 'game',
-    defaultApp = '',
+    defaultApp = 'steam',
     screen = 1
   },
-  {
-    icon = icons.lab,
-    type = 'any',
-    defaultApp = '',
-    screen = 1
-  }
+--  {
+--    icon = icons.lab,
+--    type = 'any',
+--   defaultApp = '',
+--    screen = 1
+--  }
 }
 
 awful.layout.layouts = {
